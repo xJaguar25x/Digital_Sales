@@ -1,0 +1,936 @@
+C:\xampp\php\php.exe "C:\xampp\htdocs\Digital Sales\test.php"
+Array
+(
+    [0] => Array
+        (
+            [id] => 15877885
+            [name] => Николай
+            [responsible_user_id] => 2235607
+            [created_by] => 2235607
+            [created_at] => 1520247950
+            [updated_at] => 1520247950
+            [account_id] => 18713161
+            [updated_by] => 2235607
+            [group_id] => 0
+            [company] => Array
+                (
+                )
+
+            [leads] => Array
+                (
+                    [id] => Array
+                        (
+                            [0] => 5413219
+                        )
+
+                    [_links] => Array
+                        (
+                            [self] => Array
+                                (
+                                    [href] => /api/v2/leads?id=5413219
+                                    [method] => get
+                                )
+
+                        )
+
+                )
+
+            [closest_task_at] => 0
+            [tags] => Array
+                (
+                )
+
+            [custom_fields] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 521903
+                            [name] => Телефон
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => +79197659384
+                                            [enum] => 1095879
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 521905
+                            [name] => Email
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => nikolas@mail.ru
+                                            [enum] => 1095891
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                )
+
+            [customers] => Array
+                (
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=15877885
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 15878809
+            [name] => Алексей
+            [responsible_user_id] => 2235607
+            [created_by] => 2235607
+            [created_at] => 1520248130
+            [updated_at] => 1520248139
+            [account_id] => 18713161
+            [updated_by] => 2235607
+            [group_id] => 0
+            [company] => Array
+                (
+                )
+
+            [leads] => Array
+                (
+                    [id] => Array
+                        (
+                            [0] => 5414039
+                        )
+
+                    [_links] => Array
+                        (
+                            [self] => Array
+                                (
+                                    [href] => /api/v2/leads?id=5414039
+                                    [method] => get
+                                )
+
+                        )
+
+                )
+
+            [closest_task_at] => 0
+            [tags] => Array
+                (
+                )
+
+            [custom_fields] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 521903
+                            [name] => Телефон
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => +79217498733
+                                            [enum] => 1095879
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 521905
+                            [name] => Email
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => mail@mail.ru
+                                            [enum] => 1095891
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                )
+
+            [customers] => Array
+                (
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=15878809
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 15879151
+            [name] => Александр
+            [responsible_user_id] => 2235607
+            [created_by] => 2235607
+            [created_at] => 1520248187
+            [updated_at] => 1520248187
+            [account_id] => 18713161
+            [updated_by] => 2235607
+            [group_id] => 0
+            [company] => Array
+                (
+                )
+
+            [leads] => Array
+                (
+                    [id] => Array
+                        (
+                            [0] => 5414357
+                        )
+
+                    [_links] => Array
+                        (
+                            [self] => Array
+                                (
+                                    [href] => /api/v2/leads?id=5414357
+                                    [method] => get
+                                )
+
+                        )
+
+                )
+
+            [closest_task_at] => 0
+            [tags] => Array
+                (
+                )
+
+            [custom_fields] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 521903
+                            [name] => Телефон
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => +74990918490
+                                            [enum] => 1095879
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 521905
+                            [name] => Email
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => alex@mail.com
+                                            [enum] => 1095891
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                )
+
+            [customers] => Array
+                (
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=15879151
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [id] => 15881753
+            [name] => Антон Керьев
+            [responsible_user_id] => 2235607
+            [created_by] => 2235607
+            [created_at] => 1520248383
+            [updated_at] => 1520248383
+            [account_id] => 18713161
+            [updated_by] => 2235607
+            [group_id] => 0
+            [company] => Array
+                (
+                )
+
+            [leads] => Array
+                (
+                    [id] => Array
+                        (
+                            [0] => 5415643
+                        )
+
+                    [_links] => Array
+                        (
+                            [self] => Array
+                                (
+                                    [href] => /api/v2/leads?id=5415643
+                                    [method] => get
+                                )
+
+                        )
+
+                )
+
+            [closest_task_at] => 0
+            [tags] => Array
+                (
+                )
+
+            [custom_fields] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 521903
+                            [name] => Телефон
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => +74990938423
+                                            [enum] => 1095879
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 521905
+                            [name] => Email
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => aliak_ker@yandex.ru
+                                            [enum] => 1095891
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                )
+
+            [customers] => Array
+                (
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=15881753
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [id] => 15881821
+            [name] => Анастасия Маленова
+            [responsible_user_id] => 2235607
+            [created_by] => 2235607
+            [created_at] => 1520248428
+            [updated_at] => 1520248428
+            [account_id] => 18713161
+            [updated_by] => 2235607
+            [group_id] => 0
+            [company] => Array
+                (
+                )
+
+            [leads] => Array
+                (
+                    [id] => Array
+                        (
+                            [0] => 5415677
+                        )
+
+                    [_links] => Array
+                        (
+                            [self] => Array
+                                (
+                                    [href] => /api/v2/leads?id=5415677
+                                    [method] => get
+                                )
+
+                        )
+
+                )
+
+            [closest_task_at] => 0
+            [tags] => Array
+                (
+                )
+
+            [custom_fields] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 521903
+                            [name] => Телефон
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => +79199827392
+                                            [enum] => 1095879
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 521905
+                            [name] => Email
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => nasty_kemanjo@mail.ru
+                                            [enum] => 1095891
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                )
+
+            [customers] => Array
+                (
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=15881821
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [id] => 15882117
+            [name] => Анатолий Вадшеров
+            [responsible_user_id] => 2235607
+            [created_by] => 2235607
+            [created_at] => 1520248509
+            [updated_at] => 1520248509
+            [account_id] => 18713161
+            [updated_by] => 2235607
+            [group_id] => 0
+            [company] => Array
+                (
+                )
+
+            [leads] => Array
+                (
+                    [id] => Array
+                        (
+                            [0] => 5415737
+                        )
+
+                    [_links] => Array
+                        (
+                            [self] => Array
+                                (
+                                    [href] => /api/v2/leads?id=5415737
+                                    [method] => get
+                                )
+
+                        )
+
+                )
+
+            [closest_task_at] => 0
+            [tags] => Array
+                (
+                )
+
+            [custom_fields] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 521903
+                            [name] => Телефон
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => +79199802648
+                                            [enum] => 1095879
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 521905
+                            [name] => Email
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => camo_linker@mail.ru
+                                            [enum] => 1095891
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                )
+
+            [customers] => Array
+                (
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=15882117
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [6] => Array
+        (
+            [id] => 15882179
+            [name] => Екатерина
+            [responsible_user_id] => 2235607
+            [created_by] => 2235607
+            [created_at] => 1520248545
+            [updated_at] => 1520248545
+            [account_id] => 18713161
+            [updated_by] => 2235607
+            [group_id] => 0
+            [company] => Array
+                (
+                )
+
+            [leads] => Array
+                (
+                    [id] => Array
+                        (
+                            [0] => 5415781
+                        )
+
+                    [_links] => Array
+                        (
+                            [self] => Array
+                                (
+                                    [href] => /api/v2/leads?id=5415781
+                                    [method] => get
+                                )
+
+                        )
+
+                )
+
+            [closest_task_at] => 0
+            [tags] => Array
+                (
+                )
+
+            [custom_fields] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 521903
+                            [name] => Телефон
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => +79192893827
+                                            [enum] => 1095879
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 521905
+                            [name] => Email
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => ij7wh@mail.ru
+                                            [enum] => 1095891
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                )
+
+            [customers] => Array
+                (
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=15882179
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [7] => Array
+        (
+            [id] => 15883141
+            [name] => Иван
+            [responsible_user_id] => 2235607
+            [created_by] => 2235607
+            [created_at] => 1520248579
+            [updated_at] => 1520248579
+            [account_id] => 18713161
+            [updated_by] => 2235607
+            [group_id] => 0
+            [company] => Array
+                (
+                )
+
+            [leads] => Array
+                (
+                    [id] => Array
+                        (
+                            [0] => 5415807
+                        )
+
+                    [_links] => Array
+                        (
+                            [self] => Array
+                                (
+                                    [href] => /api/v2/leads?id=5415807
+                                    [method] => get
+                                )
+
+                        )
+
+                )
+
+            [closest_task_at] => 0
+            [tags] => Array
+                (
+                )
+
+            [custom_fields] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 521903
+                            [name] => Телефон
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => +79639828967
+                                            [enum] => 1095879
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 521905
+                            [name] => Email
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => biouay@mail.ru
+                                            [enum] => 1095891
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                )
+
+            [customers] => Array
+                (
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=15883141
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [8] => Array
+        (
+            [id] => 15883213
+            [name] => Денис Иларин
+            [responsible_user_id] => 2235607
+            [created_by] => 2235607
+            [created_at] => 1520248631
+            [updated_at] => 1520248631
+            [account_id] => 18713161
+            [updated_by] => 2235607
+            [group_id] => 0
+            [company] => Array
+                (
+                )
+
+            [leads] => Array
+                (
+                    [id] => Array
+                        (
+                            [0] => 5415865
+                        )
+
+                    [_links] => Array
+                        (
+                            [self] => Array
+                                (
+                                    [href] => /api/v2/leads?id=5415865
+                                    [method] => get
+                                )
+
+                        )
+
+                )
+
+            [closest_task_at] => 0
+            [tags] => Array
+                (
+                )
+
+            [custom_fields] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 521903
+                            [name] => Телефон
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => +74990192897
+                                            [enum] => 1095879
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 521905
+                            [name] => Email
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => dytenioa12@mail.ru
+                                            [enum] => 1095891
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                )
+
+            [customers] => Array
+                (
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=15883213
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [9] => Array
+        (
+            [id] => 15883269
+            [name] => Константин
+            [responsible_user_id] => 2235607
+            [created_by] => 2235607
+            [created_at] => 1520248658
+            [updated_at] => 1520248658
+            [account_id] => 18713161
+            [updated_by] => 2235607
+            [group_id] => 0
+            [company] => Array
+                (
+                )
+
+            [leads] => Array
+                (
+                    [id] => Array
+                        (
+                            [0] => 5415889
+                        )
+
+                    [_links] => Array
+                        (
+                            [self] => Array
+                                (
+                                    [href] => /api/v2/leads?id=5415889
+                                    [method] => get
+                                )
+
+                        )
+
+                )
+
+            [closest_task_at] => 0
+            [tags] => Array
+                (
+                )
+
+            [custom_fields] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 521903
+                            [name] => Телефон
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => +79198765765
+                                            [enum] => 1095879
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 521905
+                            [name] => Email
+                            [values] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [value] => konstantly@gmail.com
+                                            [enum] => 1095891
+                                        )
+
+                                )
+
+                            [is_system] => 1
+                        )
+
+                )
+
+            [customers] => Array
+                (
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=15883269
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+)
+
+Process finished with exit code 0
